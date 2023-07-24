@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HHHHHVarshney
+- 👋 Hi, I’m Harsh..
 - 👀 I’m interested in Android Dev
 - 🌱 I’m currently learning Data Structures & Algo
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/harsh-varshney-080653253
