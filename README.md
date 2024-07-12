@@ -5,7 +5,6 @@
 
 - If anyone wants to collaborate can contact at E-mail #emperorhsb@gmail.com
 
-# Here you can find various project on Android Dev !!
 
 <!---
 HHHHHVarshney/HHHHHVarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
