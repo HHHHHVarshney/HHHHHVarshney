@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh..
 - 👀 I’m interested in Deep Learning and Software Developement
-- 🌱 I’m currently learning Optimization techniques
+- 🌱 I’m currently learning Optimization
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/harsh-varshney-080653253
 
 - If anyone wants to collaborate can contact at E-mail #emperorhsb@gmail.com
